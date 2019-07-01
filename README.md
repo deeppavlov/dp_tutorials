@@ -7,3 +7,4 @@
 # DeepPavlov lectures
 
 * [Introduction to Neural Networks for NLP. Word Embeddings](https://docs.google.com/presentation/d/1JkYNMlyZsN4PyDipMfnZLg_99JpLrAgSGDsjAMHHkEQ/edit?usp=sharing)
+* [Advanced Topics in NLP: Unsupervised Pre-training, Transfer Learning](https://docs.google.com/presentation/d/1BQW4MfammNmD7LVTcxLSQxNGBjQBed7aZ_imAFJsqnU/edit?usp=sharing)
