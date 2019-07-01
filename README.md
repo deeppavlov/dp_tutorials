@@ -1,6 +1,6 @@
 # DeepPavlov tutorials
 
-* [Sentence Classification with Word Embeddings](https://colab.research.google.com/drive/1Dnr3wC3FBf4KS0GOVNlEbp5fg74f0FM1)
+* [Sentence Classification with Word Embeddings](https://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/Tutorial_1_Sentence_classification_with_word_embeddings.ipynb)
 
 * [DeepPavlov: Transfer Learning with BERT. Classification, Tagging, QA, Zero-shot transfer to 103 languages.](http://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/DeepPavlov_BERT_transfer_learning.ipynb)
 
