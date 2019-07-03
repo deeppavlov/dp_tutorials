@@ -4,7 +4,7 @@
 
 * [DeepPavlov: Transfer Learning with BERT. Classification, Tagging, QA, Zero-shot transfer to 103 languages.](http://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/DeepPavlov_BERT_transfer_learning.ipynb)
 
-* [DeepPavlov: Hybrid Bot.](https://github.com/deepmipt/dp_tutorials/blob/master/Tutorial_3_Hybrid_bot.ipynb)
+* [DeepPavlov: Hybrid Bot.](https://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/Tutorial_3_Hybrid_bot.ipynb)
 
 # DeepPavlov lectures
 
