@@ -6,6 +6,8 @@
 
 * [DeepPavlov: Hybrid Bot](https://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/Tutorial_3_Hybrid_bot.ipynb)
 
+* [How to solve NLP tasks with DeepPavlov using BERT-based models](https://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/Tutorial_RAAI_Summer_School.ipynb)
+
 # DeepPavlov slides
 
 * [Introduction to Neural Networks for NLP. Word Embeddings](https://docs.google.com/presentation/d/1JkYNMlyZsN4PyDipMfnZLg_99JpLrAgSGDsjAMHHkEQ/edit?usp=sharing)
