@@ -14,3 +14,5 @@
 * [Advanced Topics in NLP: Unsupervised Pre-training, Transfer Learning](https://docs.google.com/presentation/d/1BQW4MfammNmD7LVTcxLSQxNGBjQBed7aZ_imAFJsqnU/edit?usp=sharing)
 * [Goal-oriented Dialog
   Systems](https://docs.google.com/presentation/d/1TbGHJJf7HgGWKnNY8U08_oVE23KwKSr0iiNVb95vtU0/edit?usp=sharing)
+
+* [NLP tasks with DeepPavlov](https://docs.google.com/presentation/d/1GWffYmOi6VjqrkFdXo3gb8GbWBML1k3ECkfvPEg_NYQ/edit?usp=sharing)
