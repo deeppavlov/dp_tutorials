@@ -8,7 +8,7 @@
 
 * [How to solve NLP tasks with DeepPavlov using BERT-based models](https://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/Tutorial_RAAI_Summer_School.ipynb)
 
-* [DeepPavlov: Классификация текстов с использованием векторных представлений](https://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/Tutorial_1_RU_%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2.ipynb)
+* [DeepPavlov: Классификация текстов с использованием векторных представлений](https://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/russian_tutorials/Tutorial_1_RU_%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2.ipynb)
 
 # DeepPavlov slides
 
