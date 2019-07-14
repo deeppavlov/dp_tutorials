@@ -21,3 +21,4 @@
 
 * [Векторные представления текстов. Классификация текстов](https://docs.google.com/presentation/d/1zfalXzzWyl4Xpd6DIbdDOaIeghfZnLh0mRAyVelGLGM/edit?usp=sharing)
 
+* [Архитектуры на основе attention. Contextulaized embeddings](https://docs.google.com/presentation/d/1kAUxbURxDhuxT2vT9tyEsO_mzrJutbLet5OhkCMtUpg/edit?usp=sharing)
